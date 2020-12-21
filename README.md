@@ -10,3 +10,5 @@ This is a command line game. You can play it online at [repl.it](https://repl.it
 To start, click on the green 'run' button at the top of the page.
 
 Enjoy!
+
+Edit: for some reason, the rods are not aligned on repl.it, but they are on the console. If you really feel like it, you can fork the game at [Github](https://github.com/Agathasta/tower_of_hanoi) 
