@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 class Board
-
   def initialize
     loop do
       puts 'How many disks do you want to play with? (minimum 3)'
