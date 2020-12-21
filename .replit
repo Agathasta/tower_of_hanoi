@@ -1,0 +1,2 @@
+language = "ruby"
+run = "ruby tower_of_hanoi.rb"
